@@ -1,0 +1,175 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.blue-color {
+    color: #363958;
+}
+
+.orange-color {
+    color: #FA804C;
+}
+
+.yellow-color {
+    color: #FABE4C;
+}
+
+.paragrap-text-color {
+    color: #3E3E3E;
+}
+
+.blue-gradient {
+    background-color: rgba(61, 79, 243, 1);
+}
+
+.show-bg-color {
+    background-color: #F1F1F1;
+}
+
+.header-background {
+    background-color: #FFF9F4;
+}
+
+.nav-font-color {
+    color: #3C3C3C;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+button,
+p,
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-custom {
+    width: 170px;
+    height: 60px;
+    background-color: rgba(61, 79, 243, 1);
+    color: white;
+    font-weight: 600 !important;
+    border-radius: 10px;
+}
+
+.nav-logo img {
+    width: 300px;
+}
+
+.header-bg {
+    background-color: #FFF9F4;
+    height: 43.75rem;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h6 {
+    font-size: 36px;
+    color: #FA804C;
+    font-weight: 700;
+
+}
+
+.show-bg {
+    background-color: #F1F1F1;
+    width: 334px;
+    height: 327px;
+    border-radius: 15px;
+}
+
+.card-edit {
+    border: 0;
+    border-radius: 15px;
+}
+
+/* .slider-right {
+    padding-left: 300px;
+} */
+
+/* @media (max-width: 900px) {
+    .slider-right {
+        padding-left: 0;
+    }
+} */
+
+/* .font-size {
+    font-size: 80px;
+}
+
+.font-size1 {
+    font-size: 48px;
+}
+
+.nav-left img {
+    width: 300px;
+    margin-right: 600px;
+}
+
+.nav-main-section {
+    height: 60px;
+}
+
+.nav-edit {
+    color: #3C3C3C;
+    padding-left: 1.5rem !important;
+}
+
+.shoes-edit {
+    width: 300px;
+}
+
+.show-card-footer {
+    background-color: white;
+    border: 0;
+}
+
+.prise-edit {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.show-img-bg {
+    height: 327px;
+    width: 334px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.show-card-radias {
+    border-radius: 20px;
+    border: 0;
+}
+
+.show-card-bottom-radias {
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    border: 0;
+}
+
+button {
+    border-radius: 10px !important;
+}
+
+.online-part {
+    width: 489px;
+    height: 135px;
+    border-radius: 15px;
+}
+
+.online-part img {
+    width: 80px;
+}
+
+.section-margin-top {
+    margin-top: 30px;
+}
+
+.margin-top {
+    margin-top: 20px;
+} */
